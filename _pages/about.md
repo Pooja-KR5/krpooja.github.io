@@ -7,4 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am Pooja KR. I am currently pursuing M.Tech in Electrical Engineering at IIT Madras. 
+
+Website is under development......... 
