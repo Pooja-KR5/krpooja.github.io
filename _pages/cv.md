@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Tech in Electrical Engineering, Indian Institute of Technology (IIT) Madras, 2023-2025
+* B.Tech in Electrical and Electronics Engineering, SV University Tirupati, 2016-2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024-2025: M.Tech Thesis
+  * IIT Madras
+  * Description
+  * Supervisor: Dr. Rachel Kalpana
 
 * Fall 2015: Research Assistant
   * GitHub University
