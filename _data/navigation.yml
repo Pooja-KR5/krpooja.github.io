@@ -9,25 +9,25 @@
 
 main:
   - title: "Publications"
-    url: https://krpooja.github.io/publications/
+    url: https://pooja-kr5.github.io/publications/
 
   - title: "Talks"
-    url: https://krpooja.github.io/talks/    
+    url: https://pooja-kr5.github.io/talks/    
 
   - title: "Teaching"
-    url: https://krpooja.github.io/teaching/    
+    url: https://pooja-kr5.github.io/teaching/    
     
   - title: "Portfolio"
-    url: https://krpooja.github.io/portfolio/
+    url: https://pooja-kr5.github.io/portfolio/
         
   - title: "Blog Posts"
-    url: https://krpooja.github.io/year-archive/
+    url: https://pooja-kr5.github.io/year-archive/
     
   - title: "CV"
-    url: https://krpooja.github.io/cv/
+    url: https://pooja-kr5.github.io/cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
   - title: "Guide"
-    url: https://krpooja.github.io/markdown/
+    url: https://pooja-kr5.github.io/markdown/
