@@ -55,7 +55,8 @@ redirect_from:
 
 ## Relevant Coursework
 
-### Institute and Online Courses  
+### Institute and Online Courses 
+* **Introduction to Machine Learning**
 * **Linear Dynamical Systems**  
 * **Synthesis of Control Systems**  
 * **Fundamentals of Linear Optimization**  
